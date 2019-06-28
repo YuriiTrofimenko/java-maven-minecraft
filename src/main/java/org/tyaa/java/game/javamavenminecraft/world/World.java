@@ -5,6 +5,8 @@
  */
 package org.tyaa.java.game.javamavenminecraft.world;
 
+import org.tyaa.java.game.javamavenminecraft.world.chunks.Chunk;
+
 /**
  *
  * @author yurii
